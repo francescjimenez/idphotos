@@ -1,0 +1,12 @@
+{
+    "spain":{
+        "passport": {
+            "width": "26",
+            "height": "32"
+        },
+        "DNI": {
+            "width": "26",
+            "height": "32"
+        }
+    }
+}
